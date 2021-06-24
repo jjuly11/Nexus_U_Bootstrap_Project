@@ -75,3 +75,19 @@ top: 11px;
 transform: rotate(-135deg);
 }
 
+.first-button{
+    outline: none;
+}
+
+.btn:focus {
+    outline: none;
+    box-shadow: none;
+  }
+
+.header-card img{
+    height:95vh !important;
+}
+
+.w{
+    width: 100vw;
+}

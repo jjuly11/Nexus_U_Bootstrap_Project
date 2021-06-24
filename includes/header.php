@@ -23,7 +23,7 @@
                <a href="#" class="navbar-brand">MONOSCOPE</a>
              </div>
              <div class="col-md-3 text-end">
-               <button class="navbar-toggler first-button" type="button" data-bs-toggle="collapse"
+               <button class="navbar-toggler first-button border-0 btn" type="button" data-bs-toggle="collapse"
                       data-mdb-target="#navbarToggleExternalContent9" data-bs-target="#navbarToggleExternalContent"
                       aria-controls="navbarToggleExternalContent9" aria-expanded="false"
                       aria-label="Toggle navigation">
@@ -38,10 +38,10 @@
                <div class="container-fluid">
                 <nav class="bg-light p-4 navbar-light">
                   <div class="d-flex justify-content-center">
-                    <div class="nav-item"><a href="#" class="nav-link">About</a></div>
-                    <div class="nav-item"><a href="#" class="nav-link">Login</a></div>
-                    <div class="nav-item"><a href="#" class="nav-link">Features</a></div>
-                    <div class="nav-item"><a href="#" class="nav-link">Contact</a></div>
+                    <div class="nav-item"><a href="#" class="nav-link text-secondary">About</a></div>
+                    <div class="nav-item"><a href="#" class="nav-link text-secondary">Login</a></div>
+                    <div class="nav-item"><a href="#" class="nav-link text-secondary">Features</a></div>
+                    <div class="nav-item"><a href="#" class="nav-link text-secondary">Contact</a></div>
                   </div>
                 </nav>
                </div>
