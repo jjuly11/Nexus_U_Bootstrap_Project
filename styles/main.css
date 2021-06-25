@@ -84,10 +84,17 @@ transform: rotate(-135deg);
     box-shadow: none;
   }
 
+.header-title{
+    padding: 4em;
+}
 .header-card img{
     height:95vh !important;
 }
 
 .w{
     width: 100vw;
+}
+.section1 .card-img{
+    width: 25vw !important;
+    height: 40vh;
 }
