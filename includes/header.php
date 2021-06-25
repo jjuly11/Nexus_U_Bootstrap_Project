@@ -15,7 +15,7 @@
              <div class="col-md-3">
                <ul class="navbar-nav">
                  <li class="nav-item">
-                   <a class="nav-link" href="#">Home</a>
+                   <a class="nav-link" href="index.php">Home</a>
                  </li>
                </ul>
 
@@ -39,10 +39,10 @@
                <div class="container-fluid">
                 <nav class="bg-light p-4 navbar-light">
                   <div class="d-flex justify-content-center">
-                    <div class="nav-item"><a href="#" class="nav-link text-secondary">About</a></div>
-                    <div class="nav-item"><a href="#" class="nav-link text-secondary">Login</a></div>
-                    <div class="nav-item"><a href="#" class="nav-link text-secondary">Features</a></div>
-                    <div class="nav-item"><a href="#" class="nav-link text-secondary">Contact</a></div>
+                    <div class="nav-item"><a href="about.php" class="nav-link text-secondary">About Us</a></div>
+                    <div class="nav-item"><a href="login.php" class="nav-link text-secondary">Login</a></div>
+                    <div class="nav-item"><a href="gallery.php" class="nav-link text-secondary">Gallery</a></div>
+                    <div class="nav-item"><a href="contact.php" class="nav-link text-secondary">Contact</a></div>
                   </div>
                 </nav>
                </div>
