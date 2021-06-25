@@ -32,11 +32,13 @@
     </div>
   </div>
 </section>
+
 <!-- Image Gallery -->
 <section class="section1 mb-3">
   <div class="container">
     <div class="fs-3 text-center mb-3"><u>Featured Images</u></div>
   </div>
+  
   <div class="container-fluid">
     <div class="d-flex flex-row">
       <div class="card">
