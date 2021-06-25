@@ -98,3 +98,28 @@ transform: rotate(-135deg);
     width: 25vw !important;
     height: 40vh;
 }
+
+.animate{
+    position: relative;
+    z-index: 1;
+    overflow: hidden;
+}
+
+.animate::after{
+    background: #212529 none repeat scroll 0 0;
+    content: "";
+    height: 100%;
+    left: -100%;
+    position: absolute;
+    top: 0;
+    transition: all 0.35s ease-in-out;
+    width: 100%;
+    z-index: -1;
+}
+
+.animate:hover::after{
+    left:0;
+}
+.animate:hover.btn{
+    color: #fff;
+}
